@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.25.1](https://github.com/v420v/kumo/compare/v0.24.1...v0.25.1) - 2026-06-13
+
 ## [v0.25.1](https://github.com/sivchari/kumo/compare/v0.25.0...v0.25.1) - 2026-06-11
 - feat(readme): auto-generate Supported Services catalog from service metadata by @sivchari in https://github.com/sivchari/kumo/pull/801
 - fix(ci): improve govulncheck output parsing with JSON and reachability filter by @sivchari in https://github.com/sivchari/kumo/pull/805
