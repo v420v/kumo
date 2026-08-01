@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.27.0](https://github.com/v420v/kumo/compare/v0.25.2...v0.27.0) - 2026-08-01
+
 ## [v0.27.0](https://github.com/sivchari/kumo/compare/v0.26.0...v0.27.0) - 2026-07-28
 - test(lambda): cover event source mapping UUID path prefixes by @yhay81 in https://github.com/sivchari/kumo/pull/851
 - fix(messaging): validate SNS and SQS names by @mizchi in https://github.com/sivchari/kumo/pull/683
